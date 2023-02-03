@@ -6,7 +6,6 @@ Welcome to the Password Generator Github repository! This tool is designed to pr
 - Generates secure, random passwords with customizable length and character sets
 - Built using HTML, CSS, and JavaScript
 - Adaptable to specific needs
-- Comprehensive documentation guide
 - User-friendly interface
 
 ## Getting Started
