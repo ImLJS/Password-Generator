@@ -12,7 +12,7 @@ Welcome to the Password Generator Github repository! This tool is designed to pr
 To get started with the Password Generator, simply download the repository and open the HTML file in your web browser. Customize the length and character sets as needed using the options provided on the page.
 
 ## Documentation 
-The repository includes a comprehensive documentation guide to assist with setup and customization. If you have any questions or issues, please refer to the guide or feel free to reach out to the repository maintainer for support. 
+If you have any questions or issues, feel free to reach out to the repository maintainer for support. 
 
 ## Benefits
 - Time-saving and efficient
